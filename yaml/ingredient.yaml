@@ -1,0 +1,51 @@
+--- !ruby/object:Cls::Clss
+table_name: Ingredient
+class_name: Ingredient
+
+members:
+- !ruby/object:Cls::Member
+  column_name: Name
+  member_name: name
+  type: !ruby/object:Types::String
+    nullable: false
+  unique: true
+  
+- !ruby/object:Cls::Member
+  column_name: Unit
+  member_name: unit
+  type: !ruby/object:Types::Integer
+    nullable: true
+    bits: 64
+  unique: false
+
+- !ruby/object:Cls::Member
+  column_name: Quantity
+  member_name: quantity
+  type: !ruby/object:Types::Integer
+    nullable: true
+    bits: 64
+  unique: false
+
+- !ruby/object:Cls::Member
+  column_name: Description
+  member_name: description
+  type: !ruby/object:Types::String
+    nullable: true
+  unique: false
+
+
+- !ruby/object:Cls::Member
+  column_name: Id
+  member_name: id
+  type: !ruby/object:Types::Integer
+    bits: 64
+    nullable: true
+  unique: false
+  private: true
+
+
+
+
+
+
+

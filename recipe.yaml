@@ -1,0 +1,3122 @@
+xwda# T = table spoon
+# t = table spoon
+# c = cup
+---
+- !ruby/object:Recipe
+ recipe: Perogies
+ ingredients:
+  - !ruby/object:Ingredient
+   name: perogies
+
+
+- !ruby/object:Recipe
+ recipe: Purple Power Bowl
+ ingredients:
+  - !ruby/object:Ingredient
+   name: tahini
+   measure: 1/3
+   unit: cup
+  - !ruby/object:Ingredient
+   name: water
+   measure: 1/3
+   unit: cup
+  - !ruby/object:Ingredient
+   name: lemon juice
+   measure: 1/4
+   unit: cup
+  - !ruby/object:Ingredient
+   name: garlic
+   measure: 1
+   unit: clove
+   desc: crushed
+  - !ruby/object:Ingredient
+   name: ground cumin
+   measure: 1/2
+   unit: tsp
+  - !ruby/object:Ingredient
+   name: cayenne pepper
+   measure: 1/4
+   unit: tsp
+  - !ruby/object:Ingredient
+   name: salt
+   measure: 1/2
+   unit: tsp
+  - !ruby/object:Ingredient
+   name: cooked grain
+   measure: 2.5
+   unit: cups
+  - !ruby/object:Ingredient
+   name: chickpeas
+   measure: 1
+   unit: 15oz. can
+  - !ruby/object:Ingredient
+   name: baby greens
+   measure: 4
+   unit: oz.
+  - !ruby/object:Ingredient
+   name: beets
+   measure: 2
+   unit: small
+  - !ruby/object:Ingredient
+   name: zucchini
+   measure: 2
+  - !ruby/object:Ingredient
+   name: carrots
+   measure: 3
+  - !ruby/object:Ingredient
+   name: cabbage(red)
+   measure: 1
+   unit: small
+  - !ruby/object:Ingredient
+   name: avocado
+   measure: 1
+  - !ruby/object:Ingredient
+   name: onions(green)
+   measure: 1/2
+   unit: bunch
+  - !ruby/object:Ingredient
+   name: pepitas
+   measure: 1/2
+   unit: cup
+
+- !ruby/object:Recipe
+ recipe: Spicy Black Bean Nachos
+ ingredients:
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 1
+   unit: T
+  - !ruby/object:Ingredient
+   name: onion
+   quantity: 1
+   unit: small
+  - !ruby/object:Ingredient
+   name: tomatoes(diced with green chiles)
+   quantity: 1
+   unit: 10 oz can
+  - !ruby/object:Ingredient
+   name: black beans
+   quantity: 1
+   unit: 15 oz can
+  - !ruby/object:Ingredient
+   name: chipotle powder
+   quantity: 1/2
+   unit: t
+  - !ruby/object:Ingredient
+   name: ground cumin
+   quantity: 1/2
+   unit: t
+  - !ruby/object:Ingredient
+   name: garlic powder
+   quantity: 1/4
+   unit: t
+  - !ruby/object:Ingredient
+   name: salt
+   quantity: 1/4
+   unit: t
+  - !ruby/object:Ingredient
+   name: sturdy corn tortilla chips
+   quantity: 8
+   unit: oz
+  - !ruby/object:Ingredient
+   name: cheese(cheddar)
+   quantity: 4
+   unit: oz
+   desc: shredded
+  - !ruby/object:Ingredient
+   name: tomatoes(Roma)
+   quantity: 1
+  - !ruby/object:Ingredient
+   name: jalapeno
+   quantity: 1
+  - !ruby/object:Ingredient
+   name: pickled red onions
+   quantity: 1/3
+   unit: c
+  - !ruby/object:Ingredient
+   name: cilantro(fresh)
+   quantity: 1
+   unit: handful
+  - !ruby/object:Ingredient
+   name: sour cream
+   quantity: 1/4
+   unit: c
+- !ruby/object:Recipe
+ recipe: Rainbow Grain Bowl
+ ingredients:
+  - !ruby/object:Ingredient
+   name: cashews(unsalted)
+   quantity: 3/4
+   unit: c
+  - !ruby/object:Ingredient
+   name: parsley 
+   quantity: 1/4
+   unit: c
+  - !ruby/object:Ingredient
+   name: lemon juice
+   quantity: 1
+   unit: T
+  - !ruby/object:Ingredient
+   name:  olive oil(extra-virgin)
+   quantity: 1
+   unit: T
+  - !ruby/object:Ingredient
+   name: tamari 
+   quantity: 1/2
+   unit: t
+  - !ruby/object:Ingredient
+   name: salt
+   quantity: 1/2
+   unit: t
+  - !ruby/object:Ingredient
+   name: lentils
+   quantity: 1/2
+   unit: c
+  - !ruby/object:Ingredient
+   name: quinoa
+   quantity: 1/2
+   unit: c
+  - !ruby/object:Ingredient
+   name: cabbage(red)
+   quantity: 1/2
+   unit: c
+   desc: shredded
+  - !ruby/object:Ingredient
+   name: beet
+   quantity: 1/4
+   unit: c
+   desc: raw grated
+  - !ruby/object:Ingredient
+   name: bell pepper
+   quantity: 1/4
+   unit: c
+  - !ruby/object:Ingredient
+   name: carrots
+   quantity: 1/4
+   unit: c
+   desc: grated
+  - !ruby/object:Ingredient
+   name: cucumber
+   quantity: 1/4
+   unit: c
+   desc: sliced
+
+
+
+
+- !ruby/object:Recipe
+  recipe: Mediterranean Vegetable Frittata
+  ingredients:
+
+  - !ruby/object:Ingredient
+   name: eggs
+   quantity: 7
+   unit: large
+  - !ruby/object:Ingredient
+   name: bell peppers(red)
+   quantity: 1
+   unit: small
+  - !ruby/object:Ingredient
+   name: zucchini
+   quantity: 1
+   unit: small
+  - !ruby/object:Ingredient
+   name: onions(green)
+   quantity: 2
+  - !ruby/object:Ingredient
+   name: broccoli
+   quantity: 4
+   unit: oz
+  - !ruby/object:Ingredient
+   name: salt(kosher)
+  - !ruby/object:Ingredient
+   name: black pepper
+  - !ruby/object:Ingredient
+   name: olive oil(extra-virgin)
+  - !ruby/object:Ingredient
+   name: baking powder
+  - !ruby/object:Ingredient
+   name: milk
+  - !ruby/object:Ingredient
+   name: cheese(feta)
+  - !ruby/object:Ingredient
+   name: parsley
+  - !ruby/object:Ingredient
+   name: thyme
+
+- !ruby/object:Recipe
+  recipe: Vegetarian Enchiladas
+  ingredients:
+
+  - !ruby/object:Ingredient
+   name: olive oil(extra-virgin)
+   quantity: 1
+   unit: T
+   desc:
+  - !ruby/object:Ingredient
+   name: onions
+   quantity: 1/2
+   unit: medium
+   desc: chopped
+  - !ruby/object:Ingredient
+   name: garlic
+   quantity: 2
+   unit: cloves
+   desc: minced
+  - !ruby/object:Ingredient
+   name: corn(frozen)
+   quantity: 2
+   unit: c
+   desc: rinsed and drained
+  - !ruby/object:Ingredient
+   name: zucchini
+   quantity: 3
+   unit: small
+   desc: chopped
+  - !ruby/object:Ingredient
+   name: salt(kosher)
+  - !ruby/object:Ingredient
+   name: chili powder
+   quantity: 1
+   unit: t
+   desc:
+  - !ruby/object:Ingredient
+   name: cumin
+   quantity: 1
+   unit: t
+   desc:
+  - !ruby/object:Ingredient
+   name: black beans
+   quantity: 1
+   unit: 15 oz can
+   desc: drained and rinsed
+  - !ruby/object:Ingredient
+   name: enchilada sauce
+   quantity: 1
+   unit: 10 oz can
+   desc:
+  - !ruby/object:Ingredient
+   name: lime
+   quantity: 1/2
+  - !ruby/object:Ingredient
+   name: tortillas(flour)
+   quantity: 8
+  - !ruby/object:Ingredient
+   name: cheese(Monterey jack)
+   quantity: 2/3
+   unit: c
+   desc: shredded
+  - !ruby/object:Ingredient
+   name: cheese(cheddar)
+   quantity: 1/3
+   unit: c
+   desc: shredded
+  - !ruby/object:Ingredient
+   name: tomatoes(grape)
+   quantity: 1
+   unit: c
+   desc: quartered
+  - !ruby/object:Ingredient
+   name: avocados
+   quantity: 1
+   desc: sliced
+  - !ruby/object:Ingredient
+   name: onions
+   quantity: 1/4
+   unit: c
+   desc: finely chopped
+  - !ruby/object:Ingredient
+   name: cilantro(fresh)
+   quantity: 1/4
+   unit: c
+   desc: fresh
+
+- !ruby/object:Recipe
+  recipe: Sticky Glazy Udon
+  ingredients:
+  - !ruby/object:Ingredient
+   name: cucumbers(english)
+   quantity: 2
+  - !ruby/object:Ingredient
+   name:  salt(kosher)
+  - !ruby/object:Ingredient
+   name: ginger
+   unit: chunks 
+   quantity: 3
+  - !ruby/object:Ingredient
+   name: rice vinegar
+   quantity: 5
+   unit: T
+  - !ruby/object:Ingredient
+   name: chili(fresno)
+   quantity: 1
+  - !ruby/object:Ingredient
+   name: soy sauce
+   quantity: 1/4
+   unit: c
+  - !ruby/object:Ingredient
+   name: honey
+   quantity: 6
+   unit: T
+  - !ruby/object:Ingredient
+   name: tofu(extra firm)
+   quantity: 1
+  - !ruby/object:Ingredient
+   name: canola oil
+   unit: c
+   quantity: 1/4
+  - !ruby/object:Ingredient
+   name: noodles(soba)
+   quantity: 8
+   unit: oz
+  - !ruby/object:Ingredient
+   name: tahini
+   quantity: 2
+   unit: T
+  - !ruby/object:Ingredient
+   name: onions(green)
+
+- !ruby/object:Recipe
+  recipe: Extra Veggie Cold Sesame Noodles
+  ingredients:
+  - !ruby/object:Ingredient
+   name: salt(course)
+   quantity: 1
+   unit: t
+  - !ruby/object:Ingredient
+   name: pasta(spaghetti)
+   quantity: 16 
+   unit: oz
+  - !ruby/object:Ingredient
+   name: peanut butter
+   quantity: 5
+   unit: T
+  - !ruby/object:Ingredient
+   name: rice vinegar
+   quantity: 3
+   unit: T
+  - !ruby/object:Ingredient
+   name: soy sauce
+   quantity: 2
+   unit: T
+  - !ruby/object:Ingredient
+   name: sesame oil
+   quantity: 1
+   unit: t
+  - !ruby/object:Ingredient
+   name: carrots
+   quantity: 2
+   unit: large
+  - !ruby/object:Ingredient
+   name: onions(green)
+   quantity: 1
+   unit: bunch
+  - !ruby/object:Ingredient
+   name: cucumbers
+   quantity: 1
+  - !ruby/object:Ingredient
+   name: sesame seeds
+   quantity: 2
+   unit: T
+
+- !ruby/object:Recipe
+  recipe: Spinach and Chickpea Bake
+  ingredients:
+  - !ruby/object:Ingredient
+   name: spinach
+   quantity: 4
+   unit: oz
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 1
+   unit:  t
+  - !ruby/object:Ingredient
+   name: onions(red)
+   quantity: 1/2
+   unit: c
+  - !ruby/object:Ingredient
+   name: garlic
+   quantity: 1 
+   unit: cloves
+  - !ruby/object:Ingredient
+   name: chickpeas
+   quantity: 1 1/3 
+   unit: c
+  - !ruby/object:Ingredient
+   name: cumin
+   quantity: 1/3 
+   unit: t
+  - !ruby/object:Ingredient
+   name:  nutmeg
+   quantity: 1/3 
+   unit: t
+  - !ruby/object:Ingredient
+   name: paprika powder
+   quantity: 1/3
+   unit: t
+  - !ruby/object:Ingredient
+   name: eggs
+   quantity: 4
+   unit: 
+  - !ruby/object:Ingredient
+   name: cheese(ricotta)
+   quantity: 1/3
+   unit: c
+  - !ruby/object:Ingredient
+   name: salt 
+   quantity: 
+   unit: 
+  - !ruby/object:Ingredient
+   name: pepper
+   quantity: 
+   unit: 
+  - !ruby/object:Ingredient
+   name: peppers(jalapeno)
+   quantity: 
+   unit: 
+  - !ruby/object:Ingredient
+   name: basil
+   quantity: fresh
+   unit: 
+  - !ruby/object:Ingredient
+   name: parsley
+   quantity: fresh
+   unit: 
+
+
+
+
+- !ruby/object:Recipe
+  recipe: Chilled Black Bean, Feta & Cucumber Salad
+  ingredients:
+  - !ruby/object:Ingredient
+   name: black beans
+   quantity: 3
+   unit: 15 oz cans 
+  - !ruby/object:Ingredient
+   name:  whole-kernel corn 
+   quantity: 1
+   unit: 15 oz can 
+  - !ruby/object:Ingredient
+   name: cucumbers
+   quantity: 1
+   unit: medium
+  - !ruby/object:Ingredient
+   name:  cilantro
+   quantity: 1
+   unit: c
+  - !ruby/object:Ingredient
+   name: limes
+   quantity: 3
+   unit:
+  - !ruby/object:Ingredient
+   name: cheese(feta)
+   quantity: 2
+   unit: c
+  - !ruby/object:Ingredient
+   name: red wine vinegar
+   quantity: 
+   unit: 
+
+  - !ruby/object:Ingredient
+   name: black pepper
+   quantity: 
+   unit:
+   
+  - !ruby/object:Ingredient
+   name: cumin
+   quantity: 
+   unit: 
+   
+  - !ruby/object:Ingredient
+   name: sea salt
+   quantity: 
+   unit: 
+
+  - !ruby/object:Ingredient
+   name: onions(green)
+   quantity: 1/2
+   unit: c
+
+
+- !ruby/object:Recipe
+  recipe: Grilled Cheese
+  ingredients:
+  - !ruby/object:Ingredient
+   name: cheese(american)
+  - !ruby/object:Ingredient
+   name: bread(grill cheese)
+  - !ruby/object:Ingredient
+   name: soup(tomato)
+
+
+
+- !ruby/object:Recipe
+  recipe: Chickpea Sandwhiches
+  ingredients:
+  - !ruby/object:Ingredient
+   name: garbanzo beans
+  - !ruby/object:Ingredient
+   name: bread(pita)
+  - !ruby/object:Ingredient
+   name: carrots
+  - !ruby/object:Ingredient
+   name: spinach
+  - !ruby/object:Ingredient
+   name: spinach
+  - !ruby/object:Ingredient
+   name: vinegar
+  - !ruby/object:Ingredient
+   name: onions(green)
+  - !ruby/object:Ingredient
+   name: cucumbers
+
+- !ruby/object:Recipe
+  recipe: Pasta Bean Skillet
+  ingredients:
+  - !ruby/object:Ingredient
+   name: elbow noodles
+   quantity: 
+   unit: 
+  - !ruby/object:Ingredient
+   name: salsa
+   quantity:
+   unit: 
+  - !ruby/object:Ingredient
+   name: tomato sauce
+   quantity: 
+   unit: 
+
+
+- !ruby/object:Recipe
+  recipe: Apple Quinoa Salad
+  ingredients:
+  - !ruby/object:Ingredient
+   name: apples
+   quantity: 4
+  - !ruby/object:Ingredient
+   name: quinoa
+  - !ruby/object:Ingredient
+   name: parsley
+  - !ruby/object:Ingredient
+   name: garlic
+  - !ruby/object:Ingredient
+   name: lemons
+  - !ruby/object:Ingredient
+   name: rice noodles
+  - !ruby/object:Ingredient
+   name: rice vinegar
+  - !ruby/object:Ingredient
+   name: edemame
+  - !ruby/object:Ingredient
+   name: cilantro
+  - !ruby/object:Ingredient
+   name: carrots
+
+- !ruby/object:Recipe
+  recipe: Peanut Cabbage Slaw
+  ingredients:
+  - !ruby/object:Ingredient
+   name: purple cabbage
+   quantity: 3
+   unit: c
+   note: shredded
+  - !ruby/object:Ingredient
+   name: green cabbage
+   quantity: 3
+   unit: c
+   note: shredded
+  - !ruby/object:Ingredient
+   name: snap peas
+   quantity: 1
+   unit: c
+   note: sliced
+  - !ruby/object:Ingredient
+   name: bell peppers(red)
+   quantity: 1/2
+   unit: large
+   note: sliced
+  - !ruby/object:Ingredient
+   name: peanuts
+   quantity: 1/2
+   unit: c
+   note: sliced
+  - !ruby/object:Ingredient
+   name: cilantro
+   quantity: 1/2
+   unit: c
+  - !ruby/object:Ingredient
+   name: natural style peanut butter
+   quantity: 4
+   unit: T
+   note: smooth
+  - !ruby/object:Ingredient
+   name: lime juice
+   quantity:  2
+   unit: T
+  - !ruby/object:Ingredient
+   name: soy sauce
+   quantity: 1
+   unit: t
+  - !ruby/object:Ingredient
+   name: ginger
+   quantity: 1
+   unit: t
+   note: finely minced
+   
+  - !ruby/object:Ingredient
+   name: sesame oil
+   quantity: 1
+   unit: t
+   note: toasted
+  - !ruby/object:Ingredient
+   name: garlic
+   quantity: 1
+   unit: cloves
+   note: finely minced
+
+
+- !ruby/object:Recipe
+  recipe: Echiladas
+  ingredients:
+  - !ruby/object:Ingredient
+   name: enchilada sauce
+   quantity: 2
+   unit: 10 oz cans
+  - !ruby/object:Ingredient
+   name: black beans
+   quantity: 2
+   unit: 15.5 oz cans
+
+  - !ruby/object:Ingredient
+   name: corn
+   quantity: 1
+   unit: 15.5 oz cans
+
+  - !ruby/object:Ingredient
+   name: cheese(cheddar)
+   quantity: 1 1/2
+   unit: c
+
+  - !ruby/object:Ingredient
+   name: onions(green)
+   quantity: 2
+   unit: T
+
+
+  
+
+
+- !ruby/object:Recipe
+  recipe: Shrimp Stir Fry
+  ingredients:
+  - !ruby/object:Ingredient
+   name: sesame oil
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: shrimp
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: brussel sprouts
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: cashews
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: teryaki sauce
+   quantity:
+   unit:
+
+- !ruby/object:Recipe
+  recipe: Tabbouleh Hummus Bowls
+  ingredients:
+  - !ruby/object:Ingredient
+   name: bulghur wheat
+   quantity: 1
+   unit: c
+
+  - !ruby/object:Ingredient
+   name: cumin
+   quantity: 1/2
+   unit: t
+
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 1/4
+   unit: c
+
+  - !ruby/object:Ingredient
+   name: lemon juice
+   quantity: 3
+   unit: T
+
+  - !ruby/object:Ingredient
+   name: herbs
+   quantity: 1
+   unit: c
+
+  - !ruby/object:Ingredient
+   name: tomatoes(grape)
+   quantity: 1
+   unit: pint
+
+  - !ruby/object:Ingredient
+   name: cucumbers(english)
+   quantity: 1
+   unit: large
+
+  - !ruby/object:Ingredient
+   name: hummus
+   quantity: 1
+   unit: c
+
+
+
+  - !ruby/object:Ingredient
+   name: cheese(feta)
+   quantity: 1/4
+   unit: c
+
+  - !ruby/object:Ingredient
+   name: pita chips
+   quantity:
+   unit:
+
+  - !ruby/object:Ingredient
+   name:  olives(kalmata)
+   quantity:
+   unit:
+
+
+
+- !ruby/object:Recipe
+  recipe: Mexican Zucchini Boats
+  ingredients:
+  
+  - !ruby/object:Ingredient
+   name: zucchini
+   quantity: 4
+   
+  - !ruby/object:Ingredient
+   name: black beans
+   quantity: 1
+   uint: can
+   
+  - !ruby/object:Ingredient
+   name: cumin
+   quantity: 
+  uint:
+   
+  - !ruby/object:Ingredient
+   name: cilantro
+   quantity: 
+   uint:
+   
+  - !ruby/object:Ingredient
+    name: chili powder
+    quantity: 
+    uint: 
+
+  - !ruby/object:Ingredient
+    name: salss
+    quantity: 1
+    uint: c
+
+  - !ruby/object:Ingredient
+    name: onions(red)
+    quantity: 1
+    uint: large
+
+  - !ruby/object:Ingredient
+    name: chedder cheese
+    quantity: 1
+    uint: c
+
+
+- !ruby/object:Recipe
+  recipe: Sweet & Sticky Tofu
+  ingredients:
+  - !ruby/object:Ingredient
+   name: pasta
+   quantity: 4
+   unit: oz
+
+  - !ruby/object:Ingredient
+   name: noodles(udon)
+   quantity: 2
+   unit: packages
+
+
+  - !ruby/object:Ingredient
+   name: soy sauce
+   quantity: 
+   unit:
+  - !ruby/object:Ingredient
+   name: brown sugar
+   quantity: 1
+   unit: t
+
+  - !ruby/object:Ingredient
+   name: cornstarch
+   quantity:
+   unit:
+   
+  - !ruby/object:Ingredient
+   name: tofu(extra firm)
+   quantity: 1
+   unit:
+
+  - !ruby/object:Ingredient
+   name: canola oil
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: garlic 
+   quantity: 2
+   unit: cloves
+
+  - !ruby/object:Ingredient
+   name: fresh ginger
+   quantity: 1 inch
+   unit:
+
+  - !ruby/object:Ingredient
+   name: scallions
+   quantity: 4
+   unit:
+
+  - !ruby/object:Ingredient
+   name: red chili
+   quantity: 1
+   unit:
+
+  - !ruby/object:Ingredient
+   name: baby bok choi
+   quantity: 2
+   unit: heads
+ 
+  - !ruby/object:Ingredient
+   name: baby spinach
+   quantity: 2
+   unit: c
+   
+
+
+- !ruby/object:Recipe
+  recipe: Shrimp
+  ingredients:
+  - !ruby/object:Ingredient
+   name: shrimp
+   unit: 
+
+- !ruby/object:Recipe
+  recipe: Shrimp Salad
+  ingredients:
+  - !ruby/object:Ingredient
+   name: shrimp
+   unit: 
+
+- !ruby/object:Recipe
+  recipe: Cauliflower Couscous Shrimp
+  ingredients:
+  - !ruby/object:Ingredient
+   name: cauliflower rice
+   quantity: 2
+   unit: 
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: lemons
+   quantity: 2
+   unit:
+  - !ruby/object:Ingredient
+   name: shrimp
+   quantity: 1
+   unit: bag
+  - !ruby/object:Ingredient
+   name: cucumbers
+   quantity: 3
+   unit:
+  - !ruby/object:Ingredient
+   name: paprika
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: salt
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: mint
+   quantity: 1/4
+   unit: c
+
+
+
+
+
+
+- !ruby/object:Recipe
+  recipe: Greek Salad Bowl
+  ingredients:
+  - !ruby/object:Ingredient
+   name: pearled farro 
+   quantity: 1 
+   unit: c
+  - !ruby/object:Ingredient
+   name: water
+  - !ruby/object:Ingredient
+   name: salt
+  - !ruby/object:Ingredient
+   name: olive oil
+  - !ruby/object:Ingredient
+   name: red wine vinegar
+  - !ruby/object:Ingredient
+   name: garlic
+  - !ruby/object:Ingredient
+   name: black pepper
+  - !ruby/object:Ingredient
+   name: cucumber
+   quantity: 2
+  - !ruby/object:Ingredient
+   name: onions(red)
+  - !ruby/object:Ingredient
+   name: tomatoes
+   quantity: 2
+  - !ruby/object:Ingredient
+   name: chickpeas
+   quantity: 1
+   unit: can
+  - !ruby/object:Ingredient
+   name: cheese(feta)
+   quantity: 4
+   unit: oz
+
+
+
+- !ruby/object:Recipe
+  recipe: Wild Mushroom Quinoa Stuffing
+  ingredients:
+  - !ruby/object:Ingredient
+   name: quinoa
+   quantity: 1
+   unit: c
+  - !ruby/object:Ingredient
+   name:  olive oil
+  - !ruby/object:Ingredient
+   name: vegetable broth
+   quantity: 2
+   unit: c
+  - !ruby/object:Ingredient
+   name: poultry seasoning
+   quantity: 1
+   unit: t
+  - !ruby/object:Ingredient
+   name: salt
+  - !ruby/object:Ingredient
+   name: onion
+   quantity: 1
+   unit: small
+  - !ruby/object:Ingredient
+   name: mushrooms(cremini)
+   quantity: 8
+   unit: oz
+  - !ruby/object:Ingredient
+   name:  mushrooms(shitake)
+   quantity: 8 
+   unit: oz
+  - !ruby/object:Ingredient
+   name: celery
+   quantity: 1/2
+   unit: c
+  - !ruby/object:Ingredient
+   name: parsley
+   quantity: 2
+   unit: T
+
+
+
+- !ruby/object:Recipe
+  recipe: Chilli Garlic Shrimp
+  ingredients:
+  - !ruby/object:Ingredient
+   name: soy sauce
+   quantity: 1
+   unit: T
+  - !ruby/object:Ingredient
+   name: safflower oil
+   quantity: 1 1/2
+   unit: c
+  - !ruby/object:Ingredient
+   name: ginger
+   quantity: 2
+   unit: T
+  - !ruby/object:Ingredient
+   name: shrimp
+   quantity: 2
+   unit: lb
+  - !ruby/object:Ingredient
+   name: lemon juice
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: chilli garlic sauce
+   quantity: 2
+   unit: T
+  - !ruby/object:Ingredient
+   name:  black pepper
+   quantity: 1/4
+   unit: t
+  - !ruby/object:Ingredient
+   name: rice
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: cilantro
+   quantity: 2
+   unit: T
+
+
+
+
+- !ruby/object:Recipe
+  recipe: Barley And Vegetable Risotto
+  ingredients:
+  - !ruby/object:Ingredient
+   name: vegetable broth
+   quantity: 4 1/2
+   unit: c
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 2
+   unit: t
+  - !ruby/object:Ingredient
+   name: mushrooms
+   quantity: 6
+   unit: oz
+  - !ruby/object:Ingredient
+   name: pearl barley
+   quantity: 1/4
+   unit: c
+  - !ruby/object:Ingredient
+   name: bell pepper(red)
+   quantity: 1
+   unit: large
+  - !ruby/object:Ingredient
+   name: spinach
+   quantity: 2
+   unit: c
+  - !ruby/object:Ingredient
+   name: cheese(parmesan)
+   quantity: 1/4
+   unit: c
+  - !ruby/object:Ingredient
+   name: black pepper
+   quantity:
+   unit:
+
+
+
+- !ruby/object:Recipe
+  recipe: Edemame Fritatta
+  ingredients:  
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 2
+   unit: T
+  - !ruby/object:Ingredient
+   name: edemame
+   quantity: 1/2
+   unit: c
+  - !ruby/object:Ingredient
+   name: corn
+   quantity: 1/4
+   unit: c
+  - !ruby/object:Ingredient
+   name: shallot
+   quantity: 1
+   unit:
+  - !ruby/object:Ingredient
+   name: eggs
+   quantity: 5
+   unit:
+  - !ruby/object:Ingredient
+   name: italian seasoning
+   quantity: 1/4
+   unit: t
+
+
+  - !ruby/object:Ingredient
+   name: salt
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: pepper
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name:  onions(green)
+   quantity: 1/4
+   unit: c
+  - !ruby/object:Ingredient
+   name: cheese(feta)
+   quantity: 1/2
+   unit: c
+
+- !ruby/object:Recipe
+  recipe: Baked Sandwiches
+  ingredients:
+  - !ruby/object:Ingredient
+   name: broccoli
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: cucumbers
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: ciabata rolls
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: bell peppers
+   quantity: 3
+   unit: various
+
+  - !ruby/object:Ingredient
+   name: onions(red)
+   quantity: 1
+   unit: small
+   
+
+  - !ruby/object:Ingredient
+   name: mushrooms
+   quantity:
+   unit:
+
+
+
+- !ruby/object:Recipe
+  recipe: Cowboy Caviar
+  ingredients:
+  - !ruby/object:Ingredient
+   name: black beans
+   quantity: 2
+   unit: 15 oz can
+  - !ruby/object:Ingredient
+   name:  bell peppers(red)
+   quantity: 1
+   unit:
+  - !ruby/object:Ingredient
+   name: tomatoes(roma)
+   quantity: 2
+   unit:
+  - !ruby/object:Ingredient
+   name: jalapeno 
+   quantity: 1
+   unit:
+  - !ruby/object:Ingredient
+   name: onions(red)
+   quantity: 1/4
+   unit:
+  - !ruby/object:Ingredient
+   name: cilantro
+   quantity: 1
+   unit: bunch
+   desc: fresh
+  - !ruby/object:Ingredient
+   name: olive oil
+  - !ruby/object:Ingredient
+   name: fresh lime
+  - !ruby/object:Ingredient
+   name: balsamic vinegar
+  - !ruby/object:Ingredient
+   name: chili powder
+  - !ruby/object:Ingredient
+   name: ground cumin
+  - !ruby/object:Ingredient
+   name: salt
+  - !ruby/object:Ingredient
+   name: sugar
+
+- !ruby/object:Recipe
+  recipe: Stuffed Peppers
+  ingredients:
+  - !ruby/object:Ingredient
+   name: bell peppers(red)
+   quantity: 4
+   unit: large
+   
+  - !ruby/object:Ingredient
+   name: onions(yellow)
+   quantity: 1/2
+   unit: c
+
+  - !ruby/object:Ingredient
+   name: cumin
+   quantity: 
+   unit: 
+
+  - !ruby/object:Ingredient
+   name: coriander
+   quantity: 
+   unit:
+   
+  - !ruby/object:Ingredient
+    name: cauliflower rice
+    
+  - !ruby/object:Ingredient
+   name: cilantro
+   quantity: 1
+   unit: bunch
+    
+  - !ruby/object:Ingredient
+   name: pine nuts
+
+
+- !ruby/object:Recipe
+  recipe: Lasagna Soup
+  ingredients:
+  - !ruby/object:Ingredient
+   name: onions(yellow)
+   quantity: 1
+   unit: medium
+  - !ruby/object:Ingredient
+   name: carrots 
+   quantity: 3
+   unit: medium
+  - !ruby/object:Ingredient
+   name: garlic
+   quantity: 4
+   unit: cloves
+  - !ruby/object:Ingredient
+   name: vegetable broth
+   quantity: 1
+   unit: 32 oz can
+  - !ruby/object:Ingredient
+   name: diced tomatoes
+   quantity: 1
+   unit: 14.5 oz can
+  - !ruby/object:Ingredient
+   name: tomato sauce
+   quantity: 2
+   unit: 8 oz can
+  - !ruby/object:Ingredient
+   name: zuchinni
+   quantity: 1
+   unit: medium
+  - !ruby/object:Ingredient
+   name: yellow squash
+   quantity: 1
+   unit: medium
+  - !ruby/object:Ingredient
+   name: mushrooms
+   quantity: 5
+   unit: oz
+  - !ruby/object:Ingredient
+   name: basil
+  - !ruby/object:Ingredient
+   name: oregano
+  - !ruby/object:Ingredient
+   name: thyme
+  - !ruby/object:Ingredient
+   name: rosemary
+  - !ruby/object:Ingredient
+   name: sugar
+  - !ruby/object:Ingredient
+   name: salt
+  - !ruby/object:Ingredient
+   name: pepper
+  - !ruby/object:Ingredient
+   name: lasagna noodles
+  - !ruby/object:Ingredient
+   name: spinach
+   quantity: 3
+   unit: c
+  - !ruby/object:Ingredient
+   name: parsley
+   quantity: 3
+   unit: c
+
+- !ruby/object:Recipe
+  recipe: Lasagna Rollups
+  ingredients:
+  - !ruby/object:Ingredient
+   name: onions(yellow)
+   quantity: 1
+   unit: medium
+  - !ruby/object:Ingredient
+   name: carrots 
+   quantity: 3
+   unit: medium
+  - !ruby/object:Ingredient
+   name: garlic
+   quantity: 4
+   unit: cloves
+  - !ruby/object:Ingredient
+   name: tomato sauce
+   quantity: 2
+   unit: 8 oz can
+  - !ruby/object:Ingredient
+   name: mushrooms
+   quantity: 5
+   unit: oz
+  - !ruby/object:Ingredient
+   name: basil
+  - !ruby/object:Ingredient
+   name: oregano
+  - !ruby/object:Ingredient
+   name: thyme
+  - !ruby/object:Ingredient
+   name: rosemary
+  - !ruby/object:Ingredient
+   name: sugar
+  - !ruby/object:Ingredient
+   name: salt
+  - !ruby/object:Ingredient
+   name: pepper
+  - !ruby/object:Ingredient
+   name: lasagna noodles
+  - !ruby/object:Ingredient
+   name: spinach
+   quantity: 3
+   unit: c
+
+
+- !ruby/object:Recipe
+  recipe: Anthony's Cauliflower
+  ingredients:
+  - !ruby/object:Ingredient
+   name: cauliflower
+   quantity: 1
+   unit: large
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 1
+   unit: T
+  - !ruby/object:Ingredient
+   name: turmeric
+   quantity: 2
+   unit: t
+  - !ruby/object:Ingredient
+   name: salt
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: siracha
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: cilantro
+   quantity: 1
+   unit: bunch
+  - !ruby/object:Ingredient
+   name: honey
+   quantity: 1
+   unit: t
+  - !ruby/object:Ingredient
+   name: dates
+   quantity: 4
+   unit: large
+  - !ruby/object:Ingredient
+   name: almonds
+   quantity: 3
+   unit: T
+   
+
+- !ruby/object:Recipe
+  recipe: Vegetable Frittata
+  ingredients:
+  - !ruby/object:Ingredient
+   name: eggs
+   quantity: 6
+   unit:
+   
+  - !ruby/object:Ingredient
+   name: yogurt
+   quantity: 1/4
+   unit: c
+
+  - !ruby/object:Ingredient
+   name:  cheese(mozarella)
+   quantity: 1
+   unit: c
+
+  - !ruby/object:Ingredient
+   name: mushrooms
+   quantity: 1
+   unit: c
+
+  - !ruby/object:Ingredient
+   name: onions(red)
+   quantity: 1/4
+   unit: c
+
+  - !ruby/object:Ingredient
+   name: asparagus
+   quantity: 10
+   unit: stalks
+        
+  - !ruby/object:Ingredient
+   name: cilantro
+   quantity: 1/4
+   unit: c
+
+  - !ruby/object:Ingredient
+   name:  tomatoes(cherry)
+   quantity: 1/2
+   unit: c
+
+
+- !ruby/object:Recipe
+  recipe: Zoodles
+  ingredients:
+  - !ruby/object:Ingredient
+   name: zucchini
+   quantity: 4
+   unit:
+
+
+- !ruby/object:Recipe
+  recipe: Misc
+  ingredients:
+  - !ruby/object:Ingredient
+   name: chili powder
+   quantity:
+   unit:
+  - !ruby/object:Ingredient   
+   name: old bay
+   quantity:
+   unit:
+   
+
+
+- !ruby/object:Recipe
+  recipe: Zucchini Lasagna
+  ingredients:
+  - !ruby/object:Ingredient
+   name: cheese(ricotta)
+  - !ruby/object:Ingredient
+   name: zucchini
+   quantity: 4
+
+
+- !ruby/object:Recipe
+  recipe: Grandma's Soup
+  ingredients:
+  - !ruby/object:Ingredient
+   name: edemame
+   quantity: 
+   unit:
+  - !ruby/object:Ingredient
+   name: zucchini
+   quantity: 1
+   unit:
+  - !ruby/object:Ingredient
+   name: carrots
+   quantity: 1
+   unit:
+  - !ruby/object:Ingredient
+   name: celery
+   quantity: 1
+   unit:
+  - !ruby/object:Ingredient
+   name: onions(yellow)
+   quantity: 1
+   unit:
+
+  - !ruby/object:Ingredient
+   name: tomatoes
+   quantity: 2
+   unit: cans
+
+
+- !ruby/object:Recipe
+  recipe: Black Bean Soup
+  ingredients:
+  - !ruby/object:Ingredient
+   name: onions(yellow)
+   quantity: 4
+   unit:
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 2
+   unit: T
+  - !ruby/object:Ingredient
+   name: onions(yellow)
+   quantity: 2 
+   unit:
+  - !ruby/object:Ingredient
+   name: celery
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: carrot
+   quantity: 1
+   unit: large
+  - !ruby/object:Ingredient
+   name: garlic 
+   quantity: c
+   unit: cloves
+  - !ruby/object:Ingredient
+   name: cumin
+   quantity: 4
+   unit: t
+  - !ruby/object:Ingredient
+   name: red pepper flakes
+   quantity: 1/2
+   unit: t
+  - !ruby/object:Ingredient
+   name: black beans
+   quantity: 4
+   unit: cans
+  - !ruby/object:Ingredient
+   name: vegetable broth
+   quantity: 4
+   unit: c
+
+  - !ruby/object:Ingredient
+   name: cilantro 
+   quantity: 1
+   unit: bunch
+
+  - !ruby/object:Ingredient
+   name: lime juice
+   quantity: 2
+   unit: T
+
+
+- !ruby/object:Recipe
+  recipe: Air Fryer Tilapia
+  ingredients:
+  - !ruby/object:Ingredient
+   name: tilipia
+   quantity: 4
+   unit:
+
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 4
+   unit: t
+
+  - !ruby/object:Ingredient
+   name: chives
+   quantity: 4
+   unit: t
+
+  - !ruby/object:Ingredient
+   name: parsley
+   quantity: 4
+   unit: t
+   
+  - !ruby/object:Ingredient
+   name: garlic
+   quantity: 2
+   unit: t
+
+
+- !ruby/object:Recipe
+  recipe: Seafood Shirataka Pasta
+  ingredients:
+  - !ruby/object:Ingredient
+   name: Shirataki Pasta
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: butter
+   quantity: 3
+   unit: t
+  - !ruby/object:Ingredient
+   name: garlic
+   quantity: 3
+   unit: cloves
+  - !ruby/object:Ingredient
+   name: red pepper flakes
+   quantity: 1/2
+   unit: t
+  - !ruby/object:Ingredient
+   name: shrimp
+   quantity: 2
+   unit: lb
+  - !ruby/object:Ingredient
+   name: vegetable broth
+   quantity: 3/2 
+   unit: c
+   
+  - !ruby/object:Ingredient
+   name: parsley
+   quantity: 2
+   unit: T
+
+  - !ruby/object:Ingredient
+   name: lemon juice
+   quantity: 1
+   unit: T
+
+  - !ruby/object:Ingredient
+   name: garlic 
+   quantity: 1/2
+   unit: t
+
+  - !ruby/object:Ingredient
+   name: cheese(parmesan)
+   quantity: 
+   unit:
+
+- !ruby/object:Recipe
+  recipe: Veggie Burgers
+  ingredients:
+  - !ruby/object:Ingredient
+   name: veggie burgers
+   quantity:
+
+- !ruby/object:Recipe
+  recipe: Tacos
+  ingredients:
+  - !ruby/object:Ingredient
+   name: salsa
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: avocados
+   quantity: 3
+  - !ruby/object:Ingredient
+   name: onions(red)
+   quantity: 3
+
+  - !ruby/object:Ingredient
+   name: cauliflower rice
+   quantity:
+   unit: 
+
+  - !ruby/object:Ingredient
+   name: limes
+   quantity: 2
+  - !ruby/object:Ingredient
+   name: black beans
+   quantity: 2 
+   unit: cans
+
+  - !ruby/object:Ingredient
+   name: cucumbers
+   quantity: 2
+
+  - !ruby/object:Ingredient
+   name: bell peppers(red)
+   quantity: 1
+  - !ruby/object:Ingredient
+   name: bell peppers(yellow)
+   quantity: 1
+  - !ruby/object:Ingredient
+   name: cilantro
+   quantity: 1
+
+- !ruby/object:Recipe
+  recipe: Ziti
+  ingredients:
+  - !ruby/object:Ingredient
+   name: pasta
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: cheese(ricotta)
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: cheese(mozarella)
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: tomato sauce
+   quantity:
+   unit:
+
+
+- !ruby/object:Recipe
+  recipe: Stir Fry
+  ingredients:
+  
+  - !ruby/object:Ingredient
+   name: bell peppers
+   quantity: 4
+   unit:
+
+
+  - !ruby/object:Ingredient
+   name: mushrooms
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: carrots
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: edemame
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: broccoli
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: peanuts
+   quantity:
+   unit:
+
+
+
+- !ruby/object:Recipe
+  recipe: Roasted Garlicky Shrimp
+  ingredients:
+  - !ruby/object:Ingredient
+   name: shrimp
+   quantity: 2
+   unit: lbs
+  - !ruby/object:Ingredient
+   name: roasted red peppers
+   quantity: 
+   unit:
+  - !ruby/object:Ingredient
+   name: scallions
+   quantity: 4
+   unit:
+  - !ruby/object:Ingredient
+   name: garlic
+   quantity: 2
+   unit: cloves
+  - !ruby/object:Ingredient
+   name: dry white wine
+   quantity: 2 
+   unit: T
+  - !ruby/object:Ingredient
+   name: lemon juice
+   quantity: 1 
+   unit: T
+  - !ruby/object:Ingredient
+   name: salt
+   quantity: 1/4
+   unit: t
+  - !ruby/object:Ingredient
+   name: pepper
+   quantity: 1/4
+   unit: t
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 2
+   unit: T
+  - !ruby/object:Ingredient
+   name: cheese(feta)
+   quantity: 4
+   unit: oz
+  - !ruby/object:Ingredient
+   name: cauliflower rice
+   quantity:
+   unit:
+  - !ruby/object:Ingredient
+   name: salad greens
+   quantity:
+   unit:
+
+
+- !ruby/object:Recipe
+  recipe: Vegetarian Chili
+  ingredients:
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 1
+   unit: T
+  - !ruby/object:Ingredient
+   name: garlic
+   quantity: 3
+   unit: cloves
+  - !ruby/object:Ingredient
+   name: onions
+   quantity: 2
+   unit: large
+  - !ruby/object:Ingredient
+   name: bell pepper(green)
+   quantity: 1
+   unit: large
+  - !ruby/object:Ingredient
+   name: bell pepper(yellow)
+   quantity: 1
+   unit: large
+  - !ruby/object:Ingredient
+   name: bell pepper(red)
+   quantity: 1
+   unit: large
+  - !ruby/object:Ingredient
+   name: celery
+   quantity: 3
+   unit: ribs
+  - !ruby/object:Ingredient
+   name: stewed tomatoes
+   quantity: 3
+   unit: 16 oz can
+  - !ruby/object:Ingredient
+   name: black beans
+   quantity: 1
+   unit: 16 oz can
+  - !ruby/object:Ingredient
+   name: garbanzo beans
+   quantity: 1
+   unit: 16 oz can
+  - !ruby/object:Ingredient
+   name: bulghur
+   quantity: 1
+   unit: c
+  - !ruby/object:Ingredient
+   name: chili powder
+   quantity: 3
+   unit: T
+  - !ruby/object:Ingredient
+   name: oregano
+   quantity: 1
+   unit: t
+  - !ruby/object:Ingredient
+   name: cumin
+   quantity: 1
+   unit: t
+  - !ruby/object:Ingredient
+   name: thyme
+   quantity: 1/2
+   unit: t
+   
+  - !ruby/object:Ingredient
+   name: salt
+   quantity: 1/2
+   unit: t
+   
+  - !ruby/object:Ingredient
+   name: ground pepper
+   quantity: 1/2
+   unit: t
+   
+
+
+- !ruby/object:Recipe
+  recipe: Salmon and Sweet Potatoes & Broccoli
+  ingredients:
+  - !ruby/object:Ingredient
+   name: mayonnaise
+   quantity: 3
+   unit: T
+   note:
+  - !ruby/object:Ingredient
+   name: chili powder
+   quantity: 1
+   unit: t
+   note:
+  - !ruby/object:Ingredient
+   name: sweet potato
+   quantity: 3
+   unit: medium
+   note:
+  - !ruby/object:Ingredient
+   name:  olive oil
+   quantity: 4
+   unit: t
+  - !ruby/object:Ingredient
+   name: salt
+   quantity: 1/2
+   unit: t
+     - !ruby/object:Ingredient
+   name: ground pepper
+   quantity: 1/4 
+   unit: t
+  - !ruby/object:Ingredient
+   name: broccoli florets
+   quantity: 4
+   unit: c
+  - !ruby/object:Ingredient
+   name: salmon filet
+   quantity: 3
+   unit: portions
+  - !ruby/object:Ingredient
+   name: cheese(feta)
+   quantity: 1/4
+   unit: c
+   note: crumbled
+  - !ruby/object:Ingredient
+   name: cilantro
+   quantity: 1/2
+   unit: c
+   note: fresh
+
+- !ruby/object:Recipe
+  recipe: Cauliflower and Chickpea Masala
+  ingredients:
+  - !ruby/object:Ingredient
+   name: garam masala
+   quantity: 2
+   unit: T
+   note:
+   
+  - !ruby/object:Ingredient
+   name: cumin
+   quantity: 1/2
+   unit: t
+   note:
+
+  - !ruby/object:Ingredient
+   name: turmeric
+   quantity: 1/2
+   unit: t
+   note:
+
+  - !ruby/object:Ingredient
+   name: smoked paprika
+   quantity: 1/2
+   unit: t
+   note:
+
+  - !ruby/object:Ingredient
+   name: cayenne
+   quantity: 1/4
+   unit: t
+   note:
+   
+  - !ruby/object:Ingredient
+   name: pepper
+   quantity:
+   unit:
+   note:
+
+  - !ruby/object:Ingredient
+   name: onions(yellow)
+   quantity: 1
+   unit: 
+   note:
+   
+  - !ruby/object:Ingredient
+   name: garlic
+   quantity: 2
+   unit: cloves
+   note:
+
+  - !ruby/object:Ingredient
+   name: ginger
+   quantity: 1/2
+   unit: T
+   note:
+
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 2
+   unit: T
+   note:
+
+  - !ruby/object:Ingredient
+   name: cauliflower
+   quantity: 1
+   unit: head
+   note:
+
+  - !ruby/object:Ingredient
+   name: chickpeas
+   quantity: 1
+   unit: can
+   note:
+   
+  - !ruby/object:Ingredient
+   name: tomato sauce
+   quantity: 1
+   unit: 15 oz can
+   note:
+   
+  - !ruby/object:Ingredient
+   name: coconut milk
+   quantity: 1
+   unit: can
+   note:
+
+
+- !ruby/object:Recipe
+  recipe: Red Curry Shrimp and Cilantro Rice
+  ingredients:
+  - !ruby/object:Ingredient
+   name: cauliflower rice
+   quantity: 1
+   unit: c
+   note:
+
+  - !ruby/object:Ingredient
+   name: lime zest
+   quantity: 1
+   unit: t
+   note:
+   
+  - !ruby/object:Ingredient
+   name: cilantro
+   quantity: 1
+   unit: c
+   note:
+
+  - !ruby/object:Ingredient
+   name: canola oil
+   quantity: 1
+   unit: T
+   note:
+
+  - !ruby/object:Ingredient
+   name: ginger
+   quantity: 1 
+   unit: 1 inch piece
+   note:
+
+  - !ruby/object:Ingredient
+   name: garlic
+   quantity: 2
+   unit: cloves
+   note: 
+
+  - !ruby/object:Ingredient
+   name: red curry paste
+   quantity: 2
+   unit: T
+   note:
+
+  - !ruby/object:Ingredient
+   name: coconut milk 
+   quantity: 1
+   unit: 13.5 oz can
+   note:
+   
+  - !ruby/object:Ingredient
+   name: fish sauce
+   quantity: 1
+   unit: T
+   note:
+
+  - !ruby/object:Ingredient
+   name: baby bok choi
+   quantity: 6
+   unit: heads
+   note:
+
+  - !ruby/object:Ingredient
+   name: shrimp
+   quantity:
+   unit:
+   note:
+
+  - !ruby/object:Ingredient
+   name: lime juice
+   quantity: 2
+   unit: T
+   note:
+   
+  - !ruby/object:Ingredient
+   name: lime wedges
+   quantity: 
+   unit:
+   note:
+
+  - !ruby/object:Ingredient
+   name: red chillis
+   quantity: 
+   unit:
+   note:
+   
+   
+
+- !ruby/object:Recipe
+  recipe: Crispy Tofu Bowl
+  ingredients:
+  - !ruby/object:Ingredient
+   name:  tofu(extra firm)
+   quantity:
+   unit:
+   note:
+   
+  - !ruby/object:Ingredient
+   name: onions(red)
+   quantity: 1
+   unit: small
+
+  - !ruby/object:Ingredient
+   name: red wine vinegar
+   quantity: 1/4
+   unit: c
+   note:
+
+  - !ruby/object:Ingredient
+   name: chilli sauce
+   quantity: 1/4
+   unit: c
+   note:
+
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 1
+   unit: T
+   note:
+
+  - !ruby/object:Ingredient
+   name: cucumbers
+   quantity: 1
+   unit: 
+   note: chopped
+
+  - !ruby/object:Ingredient
+   name: cornstarch
+   quantity: 3
+   unit: T
+   note:
+
+  - !ruby/object:Ingredient
+   name: olive oil
+   quantity: 2
+   unit: T
+   note:
+   
+
+  - !ruby/object:Ingredient
+   name: quinoa
+   quantity: 1
+   unit: c
+   note:
+
+  - !ruby/object:Ingredient
+   name: cashews
+   quantity: 2
+   unit: T
+   note: roasted
+
+
+
+- !ruby/object:Recipe
+  recipe: Korean BBQ-Glazed salmon with zoodle salad
+  ingredients:
+  - !ruby/object:Ingredient
+   name: salmon fillets 
+   quantity: 4
+   unit: 6 oz portions
+   note:
+
+  - !ruby/object:Ingredient
+   name: barbecue sauce
+   quantity: 3
+   unit: T
+   note:
+
+  - !ruby/object:Ingredient
+   name: sesame oil
+   quantity: 2
+   unit: T
+   note: toasted
+
+  - !ruby/object:Ingredient
+   name: rice vinegar
+   quantity: 2
+   unit: T
+   note:
+
+  - !ruby/object:Ingredient
+   name: soy sauce
+   quantity: 1
+   unit: T
+   note: 
+
+  - !ruby/object:Ingredient
+   name:  zucchini
+   quantity: 4
+   unit: 
+   note:
+
+  - !ruby/object:Ingredient
+   name:  edemame
+   quantity: 1
+   unit: pkg
+   note:
+
+  - !ruby/object:Ingredient
+   name: sesame seeds
+   quantity: 2
+   unit: t
+   note:
+
+
+- !ruby/object:Recipe
+  recipe: Cucmuber Hummus Wrap
+  
+  ingredients:
+  - !ruby/object:Ingredient
+    name: spinach
+    quantity: 1
+    unit: c
+    note: fresh
+    
+  - !ruby/object:Ingredient
+    name: cucumber
+    quantity: 2
+    unit: large
+    note: sliced
+    
+  - !ruby/object:Ingredient
+    name: carrots
+    quantity: 3
+    unit: large
+    note: shredded
+
+  - !ruby/object:Ingredient
+    name: edemame
+    quantity: 1
+    unit: package
+    note: shelled
+
+  - !ruby/object:Ingredient
+    name: basil
+    quantity: 1
+    unit:
+    note: fresh
+    
+  - !ruby/object:Ingredient
+    name: cheese(feta)
+    quantity: 
+    unit:
+    note: crumbled
+    
+  - !ruby/object:Ingredient
+    name: wraps
+    quantity: 8
+    unit:
+    note: 
+
+  instructions:
+  -
+  -
+
+
+
+
+- !ruby/object:Recipe
+  ingredients:
+  - !ruby/object:Ingredient
+    name: kale
+    quantity: 8
+    unit: c
+    note: loosely packed (about one bunch)
+  - !ruby/object:Ingredient
+    name:  pita(whole wheat)
+    quantity: 1
+    unit: slice
+    note: 
+  - !ruby/object:Ingredient
+    name: olive oil
+    quantity: 1/2
+    unit: T
+    note: 
+  - !ruby/object:Ingredient
+    name: walnuts
+    quantity: 1/4
+    unit: c
+    note: chopped
+  - !ruby/object:Ingredient
+    name: golden raisins
+    quantity: 1/3
+    unit: c
+    note: 
+  - !ruby/object:Ingredient
+    name: cheese(parmesan)
+    quantity: 1/3
+    unit: c
+    note: shredded or grated
+  - !ruby/object:Ingredient
+    name: champagne vinaigrette
+    quantity: 1/3
+    unit: c
+    note: 
+  recipe: Kale Salad with Toasted Pita and Parmesan
+  instructions:
+  - ''
+  - "      Pull the kale leaves from the stems. Take a handful at a time in one fist,
+    then carefully pull back your fingers one inch at a time as you slice the bunched
+    kale into fine shreds. Place the shredded kale in a colander and rinse well. Allow
+    the kale to dry as you prepare the remaining ingredients."
+  - "      "
+  - "      Cut the pita into 1-inch triangles. Place the pita triangles in a small
+    bowl and drizzle with olive oil. Toss the pita until it is well coated in oil.
+    Heat a small skillet over medium, then once the skillet is hot, add the pita.
+    Cook and stir the pita until they are toasted and crunchy."
+  - "      "
+  - "      Remove the pita from the skillet, then add the chopped walnuts. Stir and
+    cook the walnuts in the dry skillet for 1-2 minutes, or just until they begin
+    to smell toasty. Remove them from the skillet immediately to prevent burning."
+  - "      "
+  - "      To assemble the salad, place the washed and dried kale in a large bowl.
+    Add the toasted pita, walnuts, Parmesan, and golden raisins. Pour the champagne
+    vinaigrette over top, then toss until everything is coated in dressing and Parmesan."
+  - "      "
+  - "      Serve the salad immediately, or let it rest for 10-15 minutes to allow
+    the dressing to slightly soften the kale."
+  - "    "
+  
+- !ruby/object:Recipe
+  recipe: Vegan Peanut Stew
+  ingredients:
+  - !ruby/object:Ingredient
+    name: olive oil
+    quantity: 1
+    unit: T
+  - !ruby/object:Ingredient
+    name: garlic
+    quantity: 4
+    unit: cloves
+  - !ruby/object:Ingredient
+    name: grated fresh ginger
+    quantity: 1
+    unit: T
+  - !ruby/object:Ingredient
+    name: sweet potato
+    quantity: 1
+    unit: 
+  - !ruby/object:Ingredient
+    name: onion
+    quantity: 1
+    unit: medium
+  - !ruby/object:Ingredient
+    name: cumin
+    quantity: 1
+    unit: t
+  - !ruby/object:Ingredient
+    name: crushed red pepper
+    quantity: 1/4
+    unit: t
+  - !ruby/object:Ingredient
+    name: tomato paste
+    quantity: 1
+    unit: 6 oz can
+  - !ruby/object:Ingredient
+    name: natural style peanut butter
+    quantity: 1/2
+    unit: c
+  - !ruby/object:Ingredient
+    name: vegetable broth
+    quantity: 6
+    unit: c
+  - !ruby/object:Ingredient
+    name: collard greens
+    quantity: 1/2
+    unit: bunch
+  - !ruby/object:Ingredient
+    name: cilantro
+    quantity: 1/4
+    unit: bunch
+  - !ruby/object:Ingredient
+    name: cooked brown rice
+    quantity: 4.5
+    unit: c
+  - !ruby/object:Ingredient
+    name: peanuts chopped
+    quantity: 1/3
+    unit: c
+  - !ruby/object:Ingredient
+    name: cilantro
+    quantity: 1/4
+    unit: bunch
+  - !ruby/object:Ingredient
+    name: brown rice cooked
+    quantity: 4.5
+    unit: c
+  - !ruby/object:Ingredient
+    name: peanuts chopped
+    quantity: 1/3
+    unit: c
+  instructions:
+  - ''
+  - ''
+  - "      "
+  - "      Peel and grate the ginger using a sm\x01all holed cheese"
+  - "      grater. Mince the garlic, and dice the onion. Sauté the onion,"
+  - "      ginger, and garlic in a large pot with the olive oil over medium"
+  - "      heat for 2-3 minutes, or until the onion becomes soft and"
+  - "      translucent."
+  - "      "
+  - "      While the onion, ginger, and garlic are sautéing, peel and dice"
+  - "      the sweet potato into 1/2-inch cubes. Add the sweet potato"
+  - "      cubes, cumin, and red pepper to the pot and continue to sauté"
+  - "      for about 5 minutes."
+  - "      "
+  - "      Add the tomato paste, peanut butter, and vegetable broth to the"
+  - "      pot. Stir until the peanut butter and tomato paste have mostly"
+  - "      dissolved into the broth. Place a lid on the pot and turn the"
+  - "      heat up to high. Allow the stew to come up to a boil. Once it"
+  - "      reaches a boil, turn the heat down to medium-low and allow it to"
+  - "      simmer for 15-20 minutes, or until the sweet potatoes are very"
+  - "      soft."
+  - "      "
+  - "      While the soup is simmering, prepare the collard greens. Use a"
+  - "      sharp knife to remove each stem (cut along the side of each"
+  - "      stem), then stack the leaves and cut them into 1/2-inch wide"
+  - "      strips. Place the chopped collard greens in a colander and rinse"
+  - "      very well"
+  - "      "
+  - "      Once the stew has simmered for 15-20 minutes and the sweet"
+  - "      potatoes are very soft, stir in the collard greens. Let the stew"
+  - "      simmer for about 5 minutes more, then begin to smash the sweet"
+  - "      potatoes against the side of the pot to help thicken the stew."
+  - "      "
+  - "    Finally, taste the stew and add salt or red pepper, if"
+  - "    desired. Serve the stew with a scoop of cooked rice (about 3/4"
+  - "    c), a few chopped peanuts, fresh cilantro, and a drizzle of"
+  - "    sriracha, if desired."
+  - ''
+  - "    "
+- !ruby/object:Recipe
+
+  ingredients:
+  - !ruby/object:Ingredient
+    name: pasta
+    quantity: 1
+    unit: lb
+  - !ruby/object:Ingredient
+    name: broccoli
+    quantity: 1/2
+    unit: c
+    
+  - !ruby/object:Ingredient
+    name: olives(black)
+    quantity: 1/2
+    unit: c
+
+  - !ruby/object:Ingredient
+    name: tomatoes(sun dried)
+    quantity: 1/4
+    unit: c
+
+  - !ruby/object:Ingredient
+    name: cheese(feta)
+    quantity: 2
+    unit: oz
+
+
+  recipe: Sweep the Kitchen Pasta Salad
+  instructions:
+  - ''
+  - "      "
+  - '"Sweep the Kitchen" Pasta Salad'
+  - 'Throw together meals like this "Sweep the Kitchen" Pasta Salad are my favorite
+    way to use up leftovers in the kitchen. Easy, versatile, and never boring! '
+  - 'Total Cost: $5.45 recipe / $1.82 serving'
+  - 'Author: Beth - Budget Bytes'
+  - 'Prep Time: 10 mins'
+  - 'Cook Time: 10 mins'
+  - 'Total Time: 20 mins'
+  - 'Servings: to 6 servings'
+  - Ingredients
+  - ''
+  - "    8, oz., pasta, any shape"
+  - "    1, broccoli crown, about 1/2 lb."
+  - "    2.25, oz. can, sliced olives"
+  - "    1/4, c, sun dried tomatoes"
+  - "    2, oz., crumbled feta"
+  - "    1/3, c, Italian Dressing"
+  - ''
+  - Instructions
+  - ''
+  - "    Cook the pasta according to the package directions, drain in a colander,
+    then rinse briefly under cool water to bring the temperature down. Let the pasta
+    drain well."
+  - "    While the pasta is cooking, finely chop the broccoli, drain the olives, and
+    roughly chop the sun dried tomatoes."
+  - "    Once the pasta is well drained, add it to a large bowl along with the chopped
+    broccoli, drained olives, chopped sun dried tomatoes, and crumbled feta. Pour
+    the Italian dressing over top and stir until everything is combined and coated
+    in dressing. Serve immediately or refrigerate for up to 4-5 days."
+  - ''
+  - Notes
+  - This recipe makes about 6 cs. 3 meal-sized portions or 6 side dish sized portions.
+  - See how we calculate recipe costs here.
+  - 'Tried this recipe?Mention @budgetbytes or tag #budgetbytes on Instagram!'
+  - Nutrition
+  - 'Serving: 1Serving ・ Calories: 511.47kcal ・ Carbohydrates: 72.83g ・ Protein: 16.93g
+    ・ Fat: 19.43g ・ Sodium: 1029.43mg ・ Fiber: 8g'
+  - Nutritional values are estimates only. See our full nutrition disclosure here.
+  - The equipment section above contains affiliate links to products we use and love.
+    As an Amazon Associate I earn from qualifying purchases.
+  - "      "
+  - "    "
+- !ruby/object:Recipe
+  ingredients:
+  - !ruby/object:Ingredient
+    name: squash yellow
+    quantity: 1
+    unit: large
+  - !ruby/object:Ingredient
+    name: zucchini
+    quantity: 1
+    unit: large
+  - !ruby/object:Ingredient
+    name: onions(red)
+    quantity: 1
+    unit: medium
+  - !ruby/object:Ingredient
+    name: bell peppers(red)
+    quantity: 1
+    unit: medium
+  - !ruby/object:Ingredient
+    name: bell pepper(green)
+    quantity: 1
+    unit: medium
+  - !ruby/object:Ingredient
+    name: tomatoes(roma)
+    quantity: 4
+    unit: medium
+  - !ruby/object:Ingredient
+    name: garlic
+    quantity: 4
+    unit: cloves
+    desc: fresh
+  - !ruby/object:Ingredient
+    name: olive oil
+    quantity: 1
+    unit: T
+  - !ruby/object:Ingredient
+    name: fresh parsley
+    quantity: 1/3
+    unit: bunch
+  - !ruby/object:Ingredient
+    name: couscous
+    quantity: 2
+    unit: c
+  - !ruby/object:Ingredient
+    name: vegetable broth
+    quantity: 3
+    unit: c
+  recipe: Roasted Vegetable Couscous
+  instructions:
+  - ''
+  - "    "
+
+
+
+- !ruby/object:Recipe
+  recipe: Pizza
+  ingredients:
+  - !ruby/object:Ingredient
+    name:  cheese(mozarella)
+    quantity: 1
+    unit: 16 oz block
+    note: 
+    
+  - !ruby/object:Ingredient
+    name: flour white
+    quantity: 1
+    unit: 5 lb bag
+  - !ruby/object:Ingredient
+    name: flour whole wheat
+    quantity: 1
+    unit: 5 lb bag
+    note: 
+  instructions:
+  - ''
+  - "      "
+  - "    "
+
+
+
+
+
+- !ruby/object:Recipe
+  ingredients:
+  - !ruby/object:Ingredient
+    name: pesto
+    quantity: 1
+    unit: pkg
+    note: 
+  - !ruby/object:Ingredient
+    name: basil
+    quantity: 8
+    unit: c
+    note: 
+  - !ruby/object:Ingredient
+    name: Protein Pasta
+    quantity: 1
+    unit: pkg
+    note: 
+  - !ruby/object:Ingredient
+    name: pasta
+    quantity: 1
+    unit: pkg
+    note: 
+  - !ruby/object:Ingredient
+    name: cheese(parmesan)
+    quantity: 1
+    unit: pkg
+    note: 
+  recipe: Pesto
+  instructions:
+  - ''
+  - "    "
+- !ruby/object:Recipe
+  ingredients:
+  - !ruby/object:Ingredient
+    name: salt
+    quantity: 1
+    unit: T
+  - !ruby/object:Ingredient
+    name: cumin
+    quantity: 3/4
+    unit: t
+  - !ruby/object:Ingredient
+    name: lime juice fresh
+    quantity: 8
+    unit: T
+  - !ruby/object:Ingredient
+    name: olive oil
+    quantity: 5
+    unit: T
+  - !ruby/object:Ingredient
+    name: cider vinegar
+    quantity: 2
+    unit: T
+  - !ruby/object:Ingredient
+    name: cilantro chopped
+    quantity: 1
+    unit: c
+  - !ruby/object:Ingredient
+    name: corn
+    quantity: 1
+    unit: 24 oz can
+  - !ruby/object:Ingredient
+    name: onions(red)
+    quantity: 1/2
+    unit: c
+    desc: chopped
+  - !ruby/object:Ingredient
+    name: tomatoes(plum)
+    quantity: 4
+    desc: chopped
+  - !ruby/object:Ingredient
+    name: black beans
+    quantity: 2
+    unit: 15 oz can
+  - !ruby/object:Ingredient
+    name: avocados
+    quantity: 2
+    unit:
+    note: diced
+  recipe: Texas Black Bean and Corn Salad
+  instructions:
+  - ''
+  - "    "
+- !ruby/object:Recipe
+  ingredients:
+  - !ruby/object:Ingredient
+    name: tomatoes(plum)
+    quantity: 2
+    unit: 
+  - !ruby/object:Ingredient
+    name: onions(red)
+    quantity: 1/2
+    unit: medium
+  - !ruby/object:Ingredient
+    name: mushrooms(white button)
+    quantity: 8
+    unit: 
+  - !ruby/object:Ingredient
+    name: bell peppers(green)
+    quantity: 1
+    unit: small
+  - !ruby/object:Ingredient
+    name: cheese(mozarella)
+    quantity: 1
+    unit: lb container
+  - !ruby/object:Ingredient
+    name: basil
+    quantity: 20
+    unit: leaves
+  - !ruby/object:Ingredient
+    name: wagon wheels
+    quantity: 1
+    unit: 16 oz pkg
+  - !ruby/object:Ingredient
+    name: garlic salt
+    quantity: 1
+    unit: t
+  - !ruby/object:Ingredient
+    name: oregano
+    quantity: 1
+    unit: t
+  - !ruby/object:Ingredient
+    name: tomato paste
+    quantity: 1
+    unit: t
+  - !ruby/object:Ingredient
+    name: red wine vinegar
+    quantity: 2
+    unit: t
+  - !ruby/object:Ingredient
+    name: olive oil
+    quantity: 1/3
+    unit: c
+  recipe: Supreme Pizza Pasta
+  instructions:
+  - ''
+  - "      "
+  - "    "
+- !ruby/object:Recipe
+  ingredients:
+  - !ruby/object:Ingredient
+    name: cabbage
+    quantity: 2
+    unit: lbs
+  - !ruby/object:Ingredient
+    name: carrots
+    quantity: 3
+    unit: large
+  - !ruby/object:Ingredient
+    name: cucumbers
+    quantity: 1
+    unit: large
+  - !ruby/object:Ingredient
+    name: onions(green)
+    quantity: 1/2
+    unit: c
+  - !ruby/object:Ingredient
+    name: peanuts(roasted)
+    quantity: 1
+    unit: c
+  - !ruby/object:Ingredient
+    name: mint
+    quantity: 1
+    unit: T
+  - !ruby/object:Ingredient
+    name: cilantro
+    quantity: 1
+    unit: T
+  - !ruby/object:Ingredient
+    name: lime juice
+    quantity: 1/4
+    unit: c
+  - !ruby/object:Ingredient
+    name: sugar
+    quantity: 3
+    unit: T
+  - !ruby/object:Ingredient
+    name: vinegar
+    quantity: 2
+    unit: T
+  - !ruby/object:Ingredient
+    name: soy sauce
+    quantity: 3/2
+    unit: t
+  - !ruby/object:Ingredient
+    name: ginger
+    quantity: 1
+    unit: 1 inch piece
+  - !ruby/object:Ingredient
+    name: canola oil
+    quantity: 1/4
+    unit: c
+  - !ruby/object:Ingredient
+    name: sesame oil
+    quantity: 2
+    unit: T
+  - !ruby/object:Ingredient
+    name: crushed red pepper
+    quantity: 1/2
+    unit: t
+  - !ruby/object:Ingredient
+    name: sea salt
+    quantity: 1
+    unit: t
+  recipe: Sweet and Spicy Cabbage and Peanut Butter
+  instructions:
+  - ''
+  - "      "
+
+
+
+- !ruby/object:Recipe
+  recipe: Pea and Sunflower Seed Salad
+  instructions:
+  - ''
+  - "    "
+  ingredients:
+  - !ruby/object:Ingredient
+    name: olive oil
+    quantity: 1
+    unit: T
+    note: 
+  - !ruby/object:Ingredient
+    name: soy bacon
+    quantity: 5
+    unit: oz
+    note: 
+  - !ruby/object:Ingredient
+    name: frozen peas
+    quantity: 2
+    unit: c
+    note: 
+  - !ruby/object:Ingredient
+    name: apple cider vinegar
+    quantity: 1/4
+    unit: c
+    note: 
+  - !ruby/object:Ingredient
+    name: roasted sunflower seeds
+    quantity: 2
+    unit: c
+    note: 
+  - !ruby/object:Ingredient
+    name: pineapple
+    quantity: 2
+    unit: c
+    note: 
+  - !ruby/object:Ingredient
+    name: tomatoes(grape)
+    quantity: 1
+    unit: pint
+    note: 
+  - !ruby/object:Ingredient
+    name: salad mix
+    quantity: 1
+    unit: lb
+    note: 
+  - !ruby/object:Ingredient
+    name: parsley
+    quantity: 
+    unit: bunch
+    note: 1
+
+
+
+- !ruby/object:Recipe
+  ingredients: []
+  recipe: Cucumber and Black Bean Salad
+  instructions:
+  - ''
+  - "    "
+- !ruby/object:Recipe
+  ingredients:
+  - !ruby/object:Ingredient
+    name: curry powder
+    quantity: 1
+    unit: T
+    note: 
+  - !ruby/object:Ingredient
+    name: salmon
+    quantity: 1 1/2
+    unit: lb
+    note: 
+  - !ruby/object:Ingredient
+    name: cauliflower rice
+    quantity: 24
+    unit: oz
+    note: 
+  - !ruby/object:Ingredient
+    name: mango
+    quantity: 1
+    unit: large
+    note: 
+  - !ruby/object:Ingredient
+    name: lime
+    quantity: 2
+    unit: large
+    note: 
+  - !ruby/object:Ingredient
+    name: pico de galo
+    quantity: 1
+    unit: c
+    note: 
+
+
+- !ruby/object:Recipe
+ recipe:  Pumpkin, Red Lentil & Coconut Curry
+ ingredients:
+  - !ruby/object:Ingredient
+   name: coconut oil
+   quantity: 1
+   unit: t
+  - !ruby/object:Ingredient
+   name: garlic
+   quantity: 3
+   unit: cloves
+   desc: minced
+  - !ruby/object:Ingredient
+   name: fresh ginger
+   quantity: 1
+   unit: 1 inch piece
+   desc: peeled and minced
+  - !ruby/object:Ingredient
+   name: turmeric
+   quantity: 1
+   unit: t
+   desc: ground
+  - !ruby/object:Ingredient
+   name: cumin
+   quantity: 1
+   unit: t
+   desc: ground
+  - !ruby/object:Ingredient
+   name: curry powder
+   quantity: 1
+   unit: t
+  - !ruby/object:Ingredient
+   name: coriander
+   quantity: 1/2
+   unit: t
+   desc: ground
+  - !ruby/object:Ingredient
+   name: chili powder
+   quantity: 1/2
+   unit: t
+  - !ruby/object:Ingredient
+   name: garam masala
+   quantity: 1/2
+   unit: t
+  - !ruby/object:Ingredient
+   name: lentils(red)
+   quantity: 1
+   unit: c
+  - !ruby/object:Ingredient
+   name: pumpkin
+   quantity: 1
+   unit: lb
+   desc: diced
+  - !ruby/object:Ingredient
+   name: tomatoes(crushed)
+   quantity: 1
+   unit: 14 oz can
+  - !ruby/object:Ingredient
+   name: vegetable broth
+   quantity: 2
+   unit: c
+  - !ruby/object:Ingredient
+   name: salt
+   desc: to taste
+  - !ruby/object:Ingredient
+   name: salt
+   desc: to taste
+  - !ruby/object:Ingredient
+   name: coconut milk
+   quantity: 1
+   unit: 14 oz can
+   desc: full fat
+  - !ruby/object:Ingredient
+   name: peanut butter(creamy)
+   quantity: 2
+   unit: t
+  - !ruby/object:Ingredient
+   name: lemons
+   quantity: 1/2
+   desc: juice
+  - !ruby/object:Ingredient
+   name: spinach
+   quantity: 3.5
+   unit: oz
+   desc: fresh
+  - !ruby/object:Ingredient
+   name: sesame seeds
+   desc: for sprinkling (optional)
+  - !ruby/object:Ingredient
+   name: rice(basmati)
+  - !ruby/object:Ingredient
+   name: flatbread
+   desc: naan
+
+
+- !ruby/object:Recipe
+ recipe: Chana Masala
+ ingredients:
+  - !ruby/object:Ingredient
+   name: oil(neutral)
+   measure: 0.5
+   unit: C
+   desc: such as avocado or grapeseed
+  - !ruby/object:Ingredient
+   name: cumin(seeds)
+   measure: 2
+   unit: t
+  - !ruby/object:Ingredient
+   name: onions(yellow)
+   measure: 2
+   unit: medium (~440-520 g)
+   desc: finely chopped
+  - !ruby/object:Ingredient
+   name: garlic
+   measure: 2
+   unit: clove
+   desc: crushed
+  - !ruby/object:Ingredient
+   name: ginger
+   measure: 2
+   unit: T
+   desc:  such as Serrano or Thai chili
+  - !ruby/object:Ingredient
+   name: chili pepper(green)
+   measure: 2
+   unit: small
+   desc: sliced
+  - !ruby/object:Ingredient
+   name: coriander(powder)
+   measure: 4
+   unit: t
+  - !ruby/object:Ingredient
+   name: cumin(powder)
+   measure: 2
+   unit: t
+  - !ruby/object:Ingredient
+   name: paprika(powder)
+   measure: 2
+   unit: t
+   desc: Kashmiri chili powder if you have it
+  - !ruby/object:Ingredient
+   name: turmeric(powder)
+   measure: 1
+   unit: t
+  - !ruby/object:Ingredient
+   name: red chili(powder)
+   measure: 0.5
+   unit: t
+  - !ruby/object:Ingredient
+   name: tomatoes
+   measure: 4
+   unit: medium
+   desc: finely chopped or pured in a food processor
+  - !ruby/object:Ingredient
+   name: chickpeas
+   measure: 4
+   unit: cans
+   desc: rinsed and drained 
+  - !ruby/object:Ingredient
+   name: salt
+   measure: 2.5
+   unit: t
+  - !ruby/object:Ingredient
+   name: baking powder
+   measure: 0.5
+   unit: t
+   desc: for extra tender chickpeas) (See Note 2)
+  - !ruby/object:Ingredient
+   name: garam masala
+   measure: 1
+   unit: t
+  - !ruby/object:Ingredient
+   name: lemon juice
+   measure: 2
+   unit: t
+   desc: freshly squeezed 
+  - !ruby/object:Ingredient
+   name: cilantro
+   measure: 4-6
+   unit: T
+   desc: chopped
+  - !ruby/object:Ingredient
+   name: ginger
+   desc: optional
+  - !ruby/object:Ingredient
+   name: black pepper
+   measure: 0.25
+   unit: t
+   desc: freshly cracked - for garnish
+
+
+

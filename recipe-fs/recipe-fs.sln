@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "recipe-fs", "recipe-fs\recipe-fs.fsproj", "{B140D09E-7FBB-47D6-AF1C-03463FF98189}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		Ingredient.fs = Ingredient.fs
+		Item.fs = Item.fs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B140D09E-7FBB-47D6-AF1C-03463FF98189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B140D09E-7FBB-47D6-AF1C-03463FF98189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B140D09E-7FBB-47D6-AF1C-03463FF98189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B140D09E-7FBB-47D6-AF1C-03463FF98189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22503FB1-943D-48ED-A8AB-A96F6445AD9A}
+	EndGlobalSection
+EndGlobal

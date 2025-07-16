@@ -1,0 +1,22 @@
+--- !ruby/object:Cls::Clss
+table_name: Item
+class_name: item
+members:
+- !ruby/object:Cls::Member
+  column_name: Name
+  member_name: name
+  type: !ruby/object:Types::String
+    nullable: false
+    unique: true
+    
+- !ruby/object:Cls::Member
+  column_name: Manufacturer
+  member_name: manufacturer
+  type: !ruby/object:Types::String
+    nullable: false
+  unique: true
+
+
+  
+
+  

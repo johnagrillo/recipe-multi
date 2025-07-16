@@ -1,0 +1,22 @@
+$:.unshift('/Users/john/sandbox/bhw')
+require 'bhw.rb'
+require 'fileutils'
+
+task :default do
+
+  Dir.glob("*.yaml").each do |yaml_file|
+    create_classes(YAML.unsafe_load(File.read(yaml_file))).each do |lang, files|
+
+      Dir.chdir("../") do
+        puts lang
+        dir = 'recipe-' + lang
+        FileUtils.mkdir_p dir
+        files.each do |(name, src)|
+          File.open(File.join(dir, name),"w") do |f|
+            f.puts src
+          end
+        end
+      end
+    end
+  end
+end

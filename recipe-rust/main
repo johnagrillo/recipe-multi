@@ -1,0 +1,66 @@
+struct Ingredient {
+    id: String,    // private field
+    name: String,  // private field
+    quantity: f64, // private field
+}
+
+impl Ingredient {
+    // Constructor to create a new Ingredient
+    fn new(id: &str, name: &str, quantity: f64) -> Self {
+        Ingredient {
+            id: id.to_string(),
+            name: name.to_string(),
+            quantity,
+        }
+    }
+
+    // Getter for `id` (returns a reference to the private field)
+    fn id(&self) -> &str {
+        &self.id
+    }
+
+    // Setter for `id` (takes ownership of the new value)
+    fn set_id(&mut self, new_id: String) {
+        self.id = new_id;
+    }
+
+    // Getter for `name`
+    fn name(&self) -> &str {
+        &self.name
+    }
+
+    // Setter for `name`
+    fn set_name(&mut self, new_name: String) {
+        self.name = new_name;
+    }
+
+    // Getter for `quantity`
+    fn quantity(&self) -> f64 {
+        self.quantity
+    }
+
+    // Setter for `quantity`
+    fn set_quantity(&mut self, new_quantity: f64) {
+        self.quantity = new_quantity;
+    }
+}
+
+fn main() {
+    // Create an instance of Ingredient
+    let mut ingredient = Ingredient::new("123", "Sugar", 2.5);
+
+    // Access fields via getters
+    println!("ID: {}", ingredient.id());
+    println!("Name: {}", ingredient.name());
+    println!("Quantity: {}", ingredient.quantity());
+
+    // Modify fields via setters
+    ingredient.set_id("456".to_string());
+    ingredient.set_name("Brown Sugar".to_string());
+    ingredient.set_quantity(3.0);
+
+    // Print modified values
+    println!("Updated ID: {}", ingredient.id());
+    println!("Updated Name: {}", ingredient.name());
+    println!("Updated Quantity: {}", ingredient.quantity());
+}
