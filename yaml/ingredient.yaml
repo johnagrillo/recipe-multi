@@ -41,7 +41,7 @@ members:
     bits: 64
     nullable: true
   unique: false
-  private: true
+  access: :private
 
 
 

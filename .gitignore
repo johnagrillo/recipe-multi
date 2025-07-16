@@ -6,3 +6,5 @@ out
 .#*
 *.tidy
 *.Dll
+recipe-fs/recipe-fs/ob/j
+recipe-rust/target

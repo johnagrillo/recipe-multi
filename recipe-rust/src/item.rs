@@ -1,7 +1,7 @@
 
 struct Item {
-    name : String,
-    manufacturer : String
+    pub name : String,
+    pub manufacturer : String
 }
 impl Item {
 }

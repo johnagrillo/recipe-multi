@@ -1,9 +1,9 @@
 
 struct Ingredient {
-    name : String,
-    unit : u64,
-    quantity : u64,
-    description : String,
+    pub name : String,
+    pub unit : u64,
+    pub quantity : u64,
+    pub description : String,
     id : u64
 }
 impl Ingredient {

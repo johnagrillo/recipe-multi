@@ -1,4 +1,4 @@
-$:.unshift('/Users/john/sandbox/bhw')
+$:.unshift('/Users/johna/source/repos/autogen/')
 require 'bhw.rb'
 require 'fileutils'
 
